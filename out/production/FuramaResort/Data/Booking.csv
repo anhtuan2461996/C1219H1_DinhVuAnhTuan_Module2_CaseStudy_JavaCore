@@ -1,0 +1,4 @@
+fullName,birthday,gender,idCard,phone,email,customerType,address,id,serviceName,areaUser,rentalCosts,maxNumberOfPeople,rentType
+NguyenKien,10/11/1995,Male,963852742,01634074589,nguyenkien@gmail.com,vip,Da Nang,SVVL-7412,Anh,80.0,0.0,5,Nover
+NguyenKien,10/11/1995,Male,963852742,01634074589,nguyenkien@gmail.com,Da Nang,vip,SVHO-1598,Hotterduc,55.0,0.0,5,Hour
+VoThiTuyet,10/11/1996,Male,963852743,01634074589,lvothituyet@gmail.com,vip,Da Nang,002,gau,29.0,0.0,40,48

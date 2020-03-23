@@ -1,0 +1,5 @@
+id,servicesName,areaUsed,rentalCost,maxNumberOfPeople,rentType,FreeService
+10,,2000.0,0.0,20,32
+002,gau,29.0,0.0,40,48
+5,CodeGym,500.0,0.0,10,
+SVRO-8425,Roomduc,54.0,654.0,6,Afdfew

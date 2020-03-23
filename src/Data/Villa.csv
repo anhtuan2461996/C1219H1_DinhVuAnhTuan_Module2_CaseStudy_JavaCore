@@ -1,0 +1,5 @@
+id,servicesName,areaUsed,rentalCost,maxNumberOfPeople,rentType,roomStandard,converientDescription,areaPool,numberOfFloors
+SVVL-7412,VillaAnh,80.0,5.0,5,Nover,Vip,motokhac,35.0,5
+SVVL-7412,VillaAnh,81.0,10.0,10,Nover,Vip,motokhac,35.0,6
+SVVL-7412,VillaTuan,80.0,5.0,5,Nover,Vip,motokhac,35.0,5
+SVVL-7412,VillaKiet,80.0,5.0,5,Nover,Vip,motokhac,35.0,5

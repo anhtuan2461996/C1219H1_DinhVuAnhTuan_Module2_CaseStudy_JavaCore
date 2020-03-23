@@ -1,0 +1,6 @@
+fullName,birthday,gender,idCard,phone,email,customerType,address,id,serviceName,areaUser,rentalCosts,maxNumberOfPeople,rentType
+DinhVuAnhHuan,10/11/1999,Male,963852741,01634074589,dinhvuanhtuan@gmail.com,vip,Da Nang,SVVL-7412,Anh,80.0,0.0,5,Nover
+LeThiHa,10/11/1996,Male,963852755,01634074589,leThiHa@gmail.com,vip,Da Nang,SVVL-7434,Anh,80.0,0.0,5,Nover
+TangQuanTu,10/11/1995,Male,963852744,01634074589,dinhvuanh@gmail.com,vip,Da Nang,SVVL-7412,Anh,80.0,0.0,5,Nover
+VoThiTuyet,10/11/1996,Male,963852743,01634074589,lvothituyet@gmail.com,vip,Da Nang,SVVL-7434,Anh,80.0,0.0,5,Nover
+NguyenKien,10/11/1995,Male,963852742,01634074589,nguyenkien@gmail.com,vip,Da Nang,SVVL-7412,Anh,80.0,0.0,5,Nover

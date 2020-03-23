@@ -1,0 +1,4 @@
+id,servicesName,areaUsed,rentalCost,maxNumberOfPeople,rentType,roomStandard,converientDescription,numberOfFloors
+SVHO-1598,Hotterduc,55.0,555500.0,5,Hour,Other,-5,8
+SVHO-1599,Hotterduc,60.0,666600.0,6,Hour,Other,-10,10
+SVHO-1500,Hottertuan,55.0,555500.0,5,Hour,Other,-5,8

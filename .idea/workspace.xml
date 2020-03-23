@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d00ec37c-f2ee-4099-bc9d-2bc4b11cbbaf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YceQpbLinR5B90UWoGsxAjEEcU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Libs/opencsv-4.6.jar!/" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Commons" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Views.Main" />
+      <module name="FuramaResort" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Views.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="FuramaResort" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Controllers.TestController" />
+      <module name="FuramaResort" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Controllers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.TestController" />
+      <item itemvalue="Application.Main (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.TestController" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d00ec37c-f2ee-4099-bc9d-2bc4b11cbbaf" name="Default Changelist" comment="" />
+      <created>1583246296453</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583246296453</updated>
+      <workItem from="1583246299280" duration="8374000" />
+      <workItem from="1583284756041" duration="1445000" />
+      <workItem from="1583286302469" duration="643000" />
+      <workItem from="1583288963488" duration="4639000" />
+      <workItem from="1583300232956" duration="13000" />
+      <workItem from="1583323197034" duration="1007000" />
+      <workItem from="1583332449578" duration="8940000" />
+      <workItem from="1583371893714" duration="13186000" />
+      <workItem from="1583425796563" duration="3550000" />
+      <workItem from="1583456923530" duration="9868000" />
+      <workItem from="1583567729601" duration="4570000" />
+      <workItem from="1583598456001" duration="7734000" />
+      <workItem from="1583630770986" duration="127000" />
+      <workItem from="1583635920372" duration="16655000" />
+      <workItem from="1583804259034" duration="9943000" />
+      <workItem from="1583977527079" duration="1845000" />
+      <workItem from="1584414775234" duration="3052000" />
+      <workItem from="1584432213625" duration="989000" />
+      <workItem from="1584453043173" duration="12901000" />
+      <workItem from="1584541264363" duration="2708000" />
+      <workItem from="1584673272618" duration="969000" />
+      <workItem from="1584935254026" duration="377000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="26" key="#Project_Structure" timestamp="1583373218043">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="26" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1583373218043" />
+    <state x="488" y="84" key="#com.intellij.ide.util.MemberChooser" timestamp="1584460019904">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="84" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1584460019904" />
+    <state x="484" y="256" width="398" height="221" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1583381945071">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="484" y="256" width="398" height="221" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1583381945071" />
+    <state x="413" y="115" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1583601193264">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="115" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1366.728@0.0.1366.728" timestamp="1583601193264" />
+    <state x="437" y="83" key="DetectedRootsChooserDialog" timestamp="1583372903468">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="437" y="83" key="DetectedRootsChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1583372903468" />
+    <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1583373341340">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1583373341340" />
+    <state width="1323" height="296" key="GridCell.Tab.0.bottom" timestamp="1584545371083">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="296" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584545371083" />
+    <state width="1323" height="296" key="GridCell.Tab.0.center" timestamp="1584545371082">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="296" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584545371082" />
+    <state width="1323" height="296" key="GridCell.Tab.0.left" timestamp="1584545371081">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="296" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584545371081" />
+    <state width="1323" height="296" key="GridCell.Tab.0.right" timestamp="1584545371082">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="296" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584545371082" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1583375885056">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1583375885056" />
+    <state x="391" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1584935253011">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1584935253011" />
+    <state x="391" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1583649652927">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="0" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1583649652927" />
+    <state x="346" y="49" key="search.everywhere.popup" timestamp="1583338078666">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1583338078666" />
+  </component>
+</project>
